@@ -3,9 +3,9 @@ require "language/node"
 class Freeclimb < Formula
   desc "Install FreeClimb's CLI to start managing apps, buying numbers, and testing applications from your command line."
   homepage "https://github.com/FreeClimbAPI/freeclimb-cli"
-  url "https://vail-freeclimb-cli.s3.us-east-2.amazonaws.com/freeclimb-v0.2.1/freeclimb-v0.2.1.tar.gz"
-  version "0.2.1"
-  sha256 "4f203107bb80440115d41e54005b2743d7e3fad667e08da1bd54b27040c64ae8"
+  url "https://vail-freeclimb-cli.s3.us-east-2.amazonaws.com/freeclimb-v0.2.2/freeclimb-v0.2.2.tar.gz"
+  version "0.2.2"
+  sha256 "402e326ef78774e24a7ba242c3139b8b5980562fe674b1be335c6df77456e73f"
   depends_on "node"
 
   def install
