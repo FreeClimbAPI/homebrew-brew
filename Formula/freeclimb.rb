@@ -5,7 +5,7 @@ class Freeclimb < Formula
   homepage "https://github.com/FreeClimbAPI/freeclimb-cli"
   url "https://vail-freeclimb-cli.s3.us-east-2.amazonaws.com/freeclimb-v0.4.1/freeclimb-v0.4.1.tar.gz"
   version "0.4.1"
-  sha256 "d5bf3c5ad5f57993317c6d423eebad94fbe1103128071110783f8762a21f17a8"
+  sha256 "6077a427effc3aae398103fe83a41eb6db3b635002fd383b97ed1f5d479f32a5"
   depends_on "node"
 
   def install
